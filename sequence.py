@@ -1,4 +1,4 @@
-# Sequence Data Types 
+# Sequence Data Types List, Tuples
 
 # List 
 mobiles = ["Apple", "Samsung", "BlackBerry"]

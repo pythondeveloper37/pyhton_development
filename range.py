@@ -1,4 +1,4 @@
-# Write a program using range 
+# Write a program using range with input 
 val = input("Give Val")
 list = [1,2,3,4,5]
 
