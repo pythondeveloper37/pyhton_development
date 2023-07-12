@@ -5,6 +5,7 @@ thDictionary = {
     "class":"python",
     "timings":"7 to 8",
 }
+
 print(thDictionary)
 
 # print(thDictionary["name"])
